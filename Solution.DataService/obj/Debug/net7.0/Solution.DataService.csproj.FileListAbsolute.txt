@@ -1,0 +1,12 @@
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\bin\Debug\net7.0\Solution.DataService.deps.json
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\bin\Debug\net7.0\Solution.DataService.dll
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\bin\Debug\net7.0\Solution.DataService.pdb
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\Solution.DataService.csproj.AssemblyReference.cache
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\Solution.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\Solution.DataService.AssemblyInfoInputs.cache
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\Solution.DataService.AssemblyInfo.cs
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\Solution.DataService.csproj.CoreCompileInputs.cache
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\Solution.DataService.dll
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\refint\Solution.DataService.dll
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\Solution.DataService.pdb
+C:\Users\USER\Videos\Documents\app\sampleAPI\Solution.DataService\obj\Debug\net7.0\ref\Solution.DataService.dll
